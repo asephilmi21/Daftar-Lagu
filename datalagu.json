@@ -48,41 +48,23 @@
 
       "id": 1,
 
-      "album": "Kangen Band",
+      "album": "EP (iTunes)",
 
-      "artist": "Ciptaan",
+      "artist": "Blackpink",
 
-      "duration": "03:54",
-
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
-
-      "title": "Ijab Kabul",
-
-      "url": "https://archive.org/download/LaguPopIndonesiaPopuler/05.%20KANGEN%20Band%20-%20Ijab%20Kabul%20%28Official%20Music%20Video%29.mp3"
-
-    },
-
-	{
-
-      "id": 2,
-
-      "album": "Kangen Band",
-
-      "artist": "Ciptaan",
-
-      "duration": "04:41",
+      "duration": "04:02",
 
       "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
 
-      "title": "Selayaknya",
+      "title": "Boombayah",
 
-      "url": "https://archive.org/download/kangen-band/KANGEN%20BAND.mp3"
+      "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2001%20BOOMBAYAH.mp3"
 
     },
 
     {
 
-      "id": 3,
+      "id": 2,
 
       "album": "EP (iTunes)",
 
@@ -100,7 +82,7 @@
 
     {
 
-      "id": 4,
+      "id": 3,
 
       "album": "EP (iTunes)",
 
@@ -118,7 +100,7 @@
 
     {
 
-      "id": 5,
+      "id": 4,
 
       "album": "EP (iTunes)",
 
@@ -132,8 +114,278 @@
 
       "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
 
-    }
+    },
+	
+    {
 
+      "id": 5,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Blackpink",
+
+      "duration": "03:51",
+
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
+
+      "title": "Hura",
+
+      "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
+
+    },
+	
+    {
+
+      "id": 6,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Blackpink",
+
+      "duration": "03:51",
+
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
+
+      "title": "Hura",
+
+      "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
+
+    },
+	
+    {
+
+      "id": 7,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Blackpink",
+
+      "duration": "03:51",
+
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
+
+      "title": "Hura",
+
+      "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
+
+    },
+	
+    {
+
+      "id": 8,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Blackpink",
+
+      "duration": "03:51",
+
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
+
+      "title": "Hura",
+
+      "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
+
+    },
+	
+    {
+
+      "id": 9,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Blackpink",
+
+      "duration": "03:51",
+
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
+
+      "title": "Hura",
+
+      "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
+
+    },
+
+    {
+
+      "id": 10,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Blackpink",
+
+      "duration": "03:51",
+
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
+
+      "title": "Hura",
+
+      "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
+
+    },
+
+    {
+
+      "id": 11,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Blackpink",
+
+      "duration": "03:51",
+
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
+
+      "title": "Hura",
+
+      "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
+
+    },
+
+    {
+
+      "id": 12,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Blackpink",
+
+      "duration": "03:51",
+
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
+
+      "title": "Hura",
+
+      "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
+
+    },
+
+    {
+
+      "id": 13,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Blackpink",
+
+      "duration": "03:51",
+
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
+
+      "title": "Hura",
+
+      "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
+
+    },
+
+    {
+
+      "id": 14,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Blackpink",
+
+      "duration": "03:51",
+
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
+
+      "title": "Hura",
+
+      "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
+
+    },
+	
+    {
+
+      "id": 16,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Blackpink",
+
+      "duration": "03:51",
+
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
+
+      "title": "Hura",
+
+      "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
+
+    },
+
+    {
+
+      "id": 17,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Blackpink",
+
+      "duration": "03:51",
+
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
+
+      "title": "Hura",
+
+      "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
+
+    },
+
+    {
+
+      "id": 18,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Blackpink",
+
+      "duration": "03:51",
+
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
+
+      "title": "Hura",
+
+      "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
+
+    },
+
+    {
+
+      "id": 19,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Blackpink",
+
+      "duration": "03:51",
+
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
+
+      "title": "Hura",
+
+      "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
+
+    },
+
+    {
+
+      "id": 20,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Blackpink",
+
+      "duration": "03:51",
+
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
+
+      "title": "Hura",
+
+      "url": "https://ia802807.us.archive.org/27/items/blackpinkepitunes01boombayah/BLACKPINK%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
+
+    }
+	
   ]
 
 }
