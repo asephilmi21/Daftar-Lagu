@@ -62,9 +62,27 @@
 
     },
 
-    {
+	{
 
       "id": 2,
+
+      "album": "Kangen Band",
+
+      "artist": "Ciptaan",
+
+      "duration": "04:41",
+
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_BLACKPINK_EP_Digital_Cover.jpg",
+
+      "title": "Selayaknya",
+
+      "url": "https://archive.org/download/kangen-band/KANGEN%20BAND.mp3"
+
+    },
+
+    {
+
+      "id": 3,
 
       "album": "EP (iTunes)",
 
@@ -82,7 +100,7 @@
 
     {
 
-      "id": 3,
+      "id": 4,
 
       "album": "EP (iTunes)",
 
@@ -100,7 +118,7 @@
 
     {
 
-      "id": 4,
+      "id": 5,
 
       "album": "EP (iTunes)",
 
