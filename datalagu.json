@@ -52,7 +52,7 @@
 
       "artist": "Lagu Wajib",
 
-      "duration": "04:00",
+      "duration": "01:46",
 
       "image": "https://silaso.my.id/lagu/play%20copy.png",
 
@@ -66,323 +66,53 @@
 
       "id": 2,
 
-      "album": "Cip : ",
+      "album": "Cip : Kusbini",
 
       "artist": "Lagu Wajib",
 
-      "duration": "02:39",
+      "duration": "02:40",
 
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_Lagu Wajib_EP_Digital_Cover.jpg",
+      "image": "https://silaso.my.id/lagu/play%20copy.png",
 
       "title": "Bagimu Negeri",
 
-      "url": "https://archive.org/download/LaguWajibNasionalLengkap/Bagimu%20Negeri.mp3"
+      "url": "https://silaso.my.id/lagu/2.%20Bagimu%20Negeri.mp3"
 
-    },
+    },   
 
     {
 
       "id": 3,
 
-      "album": "Cip : ",
+      "album": "Cip : WR. Supratman",
 
       "artist": "Lagu Wajib",
 
-      "duration": "03:00",
+      "duration": "03:11",
 
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_Lagu Wajib_EP_Digital_Cover.jpg",
+      "image": "https://silaso.my.id/lagu/play%20copy.png",
 
-      "title": "Bendera Merah Putih",
+      "title": "Ibu Kita Kartini",
 
-      "url": "https://archive.org/download/LaguWajibNasionalLengkap/Bendera%20Merah%20Putih.mp3"
+      "url": "https://silaso.my.id/lagu/3.%20Ibu%20kita%20Kartini%20Ciptaan%20W.R.%20Supratman.mp3"
 
     },
-
+	
     {
 
       "id": 4,
 
-      "album": "Cip : ",
+      "album": "Cip : Alfred Simanjuntak",
 
       "artist": "Lagu Wajib",
 
-      "duration": "05:03",
+      "duration": "03:34",
 
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_Lagu Wajib_EP_Digital_Cover.jpg",
+      "image": "https://silaso.my.id/lagu/play%20copy.png",
 
-      "title": "Berkibarlah Bendera Negeriku",
+      "title": "Bangun Pemudi Pemuda",
 
-      "url": "https://archive.org/download/LaguWajibNasionalLengkap/Berkibarlah%20Bendera%20Negeriku.mp3"
-
-    },
-	
-    {
-
-      "id": 5,
-
-      "album": "Cip : ",
-
-      "artist": "Lagu Wajib",
-
-      "duration": "03:59",
-
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_Lagu Wajib_EP_Digital_Cover.jpg",
-
-      "title": "Berkibarlah Benderaku",
-
-      "url": "https://archive.org/download/LaguWajibNasionalLengkap/Berkibarlah%20Benderaku.mp3"
-
-    },
-	
-    {
-
-      "id": 6,
-
-      "album": "Cip : ",
-
-      "artist": "Lagu Wajib",
-
-      "duration": "03:49",
-
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_Lagu Wajib_EP_Digital_Cover.jpg",
-
-      "title": "Dari Sabang Sampai Merauke",
-
-      "url": "https://ia802807.us.archive.org/27/items/Lagu Wajibepitunes01boombayah/Lagu Wajib%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
-
-    },
-	
-    {
-
-      "id": 7,
-
-      "album": "Cip : ",
-
-      "artist": "Lagu Wajib",
-
-      "duration": "03:51",
-
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_Lagu Wajib_EP_Digital_Cover.jpg",
-
-      "title": "Hura",
-
-      "url": "https://ia802807.us.archive.org/27/items/Lagu Wajibepitunes01boombayah/Lagu Wajib%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
-
-    },
-	
-    {
-
-      "id": 8,
-
-      "album": "Cip : ",
-
-      "artist": "Lagu Wajib",
-
-      "duration": "03:51",
-
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_Lagu Wajib_EP_Digital_Cover.jpg",
-
-      "title": "Hura",
-
-      "url": "https://ia802807.us.archive.org/27/items/Lagu Wajibepitunes01boombayah/Lagu Wajib%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
-
-    },
-	
-    {
-
-      "id": 9,
-
-      "album": "Cip : ",
-
-      "artist": "Lagu Wajib",
-
-      "duration": "03:51",
-
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_Lagu Wajib_EP_Digital_Cover.jpg",
-
-      "title": "Hura",
-
-      "url": "https://ia802807.us.archive.org/27/items/Lagu Wajibepitunes01boombayah/Lagu Wajib%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
-
-    },
-
-    {
-
-      "id": 10,
-
-      "album": "Cip : ",
-
-      "artist": "Lagu Wajib",
-
-      "duration": "03:51",
-
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_Lagu Wajib_EP_Digital_Cover.jpg",
-
-      "title": "Hura",
-
-      "url": "https://ia802807.us.archive.org/27/items/Lagu Wajibepitunes01boombayah/Lagu Wajib%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
-
-    },
-
-    {
-
-      "id": 11,
-
-      "album": "Cip : ",
-
-      "artist": "Lagu Wajib",
-
-      "duration": "03:51",
-
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_Lagu Wajib_EP_Digital_Cover.jpg",
-
-      "title": "Hura",
-
-      "url": "https://ia802807.us.archive.org/27/items/Lagu Wajibepitunes01boombayah/Lagu Wajib%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
-
-    },
-
-    {
-
-      "id": 12,
-
-      "album": "Cip : ",
-
-      "artist": "Lagu Wajib",
-
-      "duration": "03:51",
-
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_Lagu Wajib_EP_Digital_Cover.jpg",
-
-      "title": "Hura",
-
-      "url": "https://ia802807.us.archive.org/27/items/Lagu Wajibepitunes01boombayah/Lagu Wajib%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
-
-    },
-
-    {
-
-      "id": 13,
-
-      "album": "Cip : ",
-
-      "artist": "Lagu Wajib",
-
-      "duration": "03:51",
-
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_Lagu Wajib_EP_Digital_Cover.jpg",
-
-      "title": "Hura",
-
-      "url": "https://ia802807.us.archive.org/27/items/Lagu Wajibepitunes01boombayah/Lagu Wajib%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
-
-    },
-
-    {
-
-      "id": 14,
-
-      "album": "Cip : ",
-
-      "artist": "Lagu Wajib",
-
-      "duration": "03:51",
-
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_Lagu Wajib_EP_Digital_Cover.jpg",
-
-      "title": "Hura",
-
-      "url": "https://ia802807.us.archive.org/27/items/Lagu Wajibepitunes01boombayah/Lagu Wajib%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
-
-    },
-	
-    {
-
-      "id": 16,
-
-      "album": "Cip : ",
-
-      "artist": "Lagu Wajib",
-
-      "duration": "03:51",
-
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_Lagu Wajib_EP_Digital_Cover.jpg",
-
-      "title": "Hura",
-
-      "url": "https://ia802807.us.archive.org/27/items/Lagu Wajibepitunes01boombayah/Lagu Wajib%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
-
-    },
-
-    {
-
-      "id": 17,
-
-      "album": "Cip : ",
-
-      "artist": "Lagu Wajib",
-
-      "duration": "03:51",
-
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_Lagu Wajib_EP_Digital_Cover.jpg",
-
-      "title": "Hura",
-
-      "url": "https://ia802807.us.archive.org/27/items/Lagu Wajibepitunes01boombayah/Lagu Wajib%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
-
-    },
-
-    {
-
-      "id": 18,
-
-      "album": "Cip : ",
-
-      "artist": "Lagu Wajib",
-
-      "duration": "03:51",
-
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_Lagu Wajib_EP_Digital_Cover.jpg",
-
-      "title": "Hura",
-
-      "url": "https://ia802807.us.archive.org/27/items/Lagu Wajibepitunes01boombayah/Lagu Wajib%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
-
-    },
-
-    {
-
-      "id": 19,
-
-      "album": "Cip : ",
-
-      "artist": "Lagu Wajib",
-
-      "duration": "03:51",
-
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_Lagu Wajib_EP_Digital_Cover.jpg",
-
-      "title": "Hura",
-
-      "url": "https://ia802807.us.archive.org/27/items/Lagu Wajibepitunes01boombayah/Lagu Wajib%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
-
-    },
-
-    {
-
-      "id": 20,
-
-      "album": "Cip : ",
-
-      "artist": "Lagu Wajib",
-
-      "duration": "03:51",
-
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Black_Pink_Lagu Wajib_EP_Digital_Cover.jpg",
-
-      "title": "Hura",
-
-      "url": "https://ia802807.us.archive.org/27/items/Lagu Wajibepitunes01boombayah/Lagu Wajib%20-%20EP%20%28iTunes%29%2003%20PLAYING%20WITH%20FIRE.mp3"
+      "url": "https://silaso.my.id/lagu/4.%20Bangun%20Pemudi%20Pemuda.mp3"
 
     }
 	
